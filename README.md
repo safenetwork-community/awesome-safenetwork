@@ -12,6 +12,6 @@ A curated list of Safenet code and resources.
 
 ## Applications
 
-* [ntracking](https://github.com/javages/ntracking) — stub
-* [vdash](https://github.com/happybeing/vdash) — stub
+* [ntracking](https://github.com/javages/ntracking) — Tracks Safe Network nodes.
+* [vdash](https://github.com/happybeing/vdash) — A terminal based dashboard for monitoring Safe Network nodes.
 
