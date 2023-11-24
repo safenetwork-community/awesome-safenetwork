@@ -1,5 +1,5 @@
 # Awesome Safe Network
-A curated list of Safenetwork code and resources. 
+A curated list of Safe Network code and resources. 
 
 ## Table of contents
 
