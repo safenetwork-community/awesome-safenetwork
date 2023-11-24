@@ -12,5 +12,6 @@ A curated list of Safenet code and resources.
 
 ## Applications
 
-* [vdash](https://github.com/happybeing/vdash) — stub
 * [ntracking](https://github.com/javages/ntracking) — stub
+* [vdash](https://github.com/happybeing/vdash) — stub
+
