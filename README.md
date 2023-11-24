@@ -1,2 +1,2 @@
 # Awesome Safenet
-A curated list of safenet code and resources. 
+A curated list of Safenet code and resources. 
